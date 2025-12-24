@@ -1,0 +1,7 @@
+{
+  "name": "Garlic ARCHIVE",
+  "description": "A utilitarian, AI-powered expense tracker inspired by Are.na aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
