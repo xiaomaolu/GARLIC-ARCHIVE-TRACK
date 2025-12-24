@@ -1,4 +1,3 @@
-<img width="2274" height="1420" alt="image" src="https://github.com/user-attachments/assets/a36aec6c-fef3-457c-8981-60010b2f9d87" /># 🧄 Garlic Archive | 大蒜档案
 > **Personal Finance Index v1.2**  
 > 一个基于实用主义逻辑、由 Gemini AI 驱动的个人财务索引工具。
 
